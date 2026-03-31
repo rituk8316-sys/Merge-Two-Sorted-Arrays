@@ -1,2 +1,3 @@
 # Merge-Two-Sorted-Arrays
 Merge Two Sorted Arrays solution 
+Merged array is: [1, 2, 3, 4, 5, 6, 7, 8]
